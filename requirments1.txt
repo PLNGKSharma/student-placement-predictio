@@ -1,5 +1,5 @@
 streamlit
 pandas
-scikit_learn
-nimpy
+scikit-learn
+numpy
 
